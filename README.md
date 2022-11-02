@@ -1,3 +1,3 @@
 # go-url-shortener
 
-this is my solution to the 2n project of the gophercises sllyabus
+this is my solution to the 2nd project of the gophercises sllyabus
